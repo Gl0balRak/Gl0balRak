@@ -17,3 +17,8 @@
 <div class="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Gl0balRak&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1>
+  Battlecruiser operational!
+  <img src="https://media.giphy.com/media/q28kEOeNJDgiqcTDsi/giphy.gif" width="30px"/>
+</h1>
