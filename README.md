@@ -19,10 +19,8 @@
 </div>
 
 <div class="badges" align="center">
+  <h1>
+    Battlecruiser operational!
+  </h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt=""/>
 </div>
-
-<h1>
-  Battlecruiser operational!
-  <img src="" width="30px"/>
-</h1>
