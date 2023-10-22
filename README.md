@@ -26,5 +26,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/K3mmRp5j0IJ9u/giphy.gif" width="600" height="300"/>
 </div>
