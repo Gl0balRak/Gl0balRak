@@ -28,7 +28,7 @@
 I am a Python Developer from Russia
 - 🎓 Now I'm studing informatics in Peter the Great St.Petersburg Polytechnic University.
 
--  🧪I studied in Yaroslav the Wise Novgorod State University Polytechnic College and worked a lot in the laboratory of neural interfaces and flying robotics.
+-  🧪I studied at the Polytechnic College of Novgorod State University named after Yaroslav the Wise and worked a lot in the laboratories of neural interfaces and flying robotics.
 
 - 👩‍💻 In my free time, I solve problems on LeetCode and read tech articles.
 
