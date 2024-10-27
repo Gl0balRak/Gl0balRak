@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/biryukov2016">
+  <a href="https://vk.com/gl0balrak">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCg8l7qzI-2jkgsmdw9op_Bw">
