@@ -10,7 +10,6 @@
   <a href="https://vk.com/gl0balrak">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCg8l7qzI-2jkgsmdw9op_Bw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT Badge"/>
   </a>
   <a href="https://t.me/GlobalRak">
